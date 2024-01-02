@@ -18,6 +18,12 @@
 - [Reservas](https://www.regus.com/es-es/membership/office-checkout-page/#/es-es/membership/membership-checkout-page/plan-options){:target="_blank"}
 - [Localización](https://maps.app.goo.gl/uJjRNCuTorg566DM6){:target="_blank"}
 
+### Santander Lab
+
+- [Información](https://santanderlab.com/node/112){:target="_blank"}
+- [Reservas](https://santanderlab.com/contacto){:target="_blank"}
+- [Localización](https://maps.app.goo.gl/CpDdjKXcsihKDs6LA){:target="_blank"}
+
 ### Work Café Santander
 
 - [Información](https://www.bancosantander.es/particulares/banca-online/work-cafe){:target="_blank"}
