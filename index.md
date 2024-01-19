@@ -1,3 +1,5 @@
+{% include_relative google_analytics.html %}
+
 # Directorio de coworkings en Cantabria
 
 ## Santander
